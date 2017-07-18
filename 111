@@ -1,4 +1,8 @@
 SELECT log_time, 
+新加的内容
+
+
+新家的内容！！！！
             eleme_device_id, 
             event_param 
 FROM dw.dw_log_common_app_pv_day_inc 
