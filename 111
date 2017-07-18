@@ -1,0 +1,21 @@
+SELECT log_time, 
+            eleme_device_id, 
+            event_param 
+FROM dw.dw_log_common_app_pv_day_inc 
+WHERE dt='2017-07-03' 
+            AND log_type='TALARIS2' 
+            AND type=2 
+            AND event_id=100670
+
+
+
+            
+
+newCakeAndRecycleOld 230
+RecycleBitmap 3849
+
+4079
+
+createBitmapForByte 3991
+
+4079 - 3991 = 88
